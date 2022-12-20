@@ -1,0 +1,142 @@
+.visit{
+    cursor: pointer;
+    color: rgb(167, 167, 200);
+}
+
+.detail{
+    cursor: pointer;
+    margin-left: 50px;
+    color: rgb(66, 66, 74);
+}
+
+.leetcode{
+    max-width: 30px;
+    max-height: 30px;
+    border-radius: 100px;
+    margin: 3px;
+}
+
+.img-icons{
+    display: flex;
+    justify-content: center;
+    max-width: 300px;
+    padding: 10px;
+}
+.img-icons div{
+    padding: 5px;
+}
+
+.profile img{
+    margin: 1px;
+}
+.skills .progress {
+    height: 60px;
+    display: block;
+    background: none;
+    border-radius: 0;
+  }
+  
+  .skills .progress .skill {
+    padding: 0;
+    margin: 0 0 6px 0;
+    text-transform: uppercase;
+    display: block;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    color: #050d18;
+  }
+  
+  .skills .progress .skill .val {
+    float: right;
+    font-style: normal;
+  }
+  
+  .skills .progress-bar-wrap {
+    background: #dce8f8;
+    height: 10px;
+  }
+  
+  .skills .progress-bar-1 {
+    width: 85%;
+    height: 10px;
+    transition: 0.9s;
+    background-color: #149ddd;
+  }
+  .skills .progress-bar-2 {
+    width: 70%;
+    height: 10px;
+    transition: 0.9s;
+    background-color: #149ddd;
+  }
+  .skills .progress-bar-3 {
+    width: 90%;
+    height: 10px;
+    transition: 0.9s;
+    background-color: #149ddd;
+  }
+  .skills .progress-bar-4 {
+    width: 70%;
+    height: 10px;
+    transition: 0.9s;
+    background-color: #149ddd;
+  }
+  .skills .progress-bar-5 {
+    width: 85%;
+    height: 10px;
+    transition: 0.9s;
+    background-color: #149ddd;
+  }
+  .skills .progress-bar-6 {
+    width: 90%;
+    height: 10px;
+    transition: 0.9s;
+    background-color: #149ddd;
+  }
+  .skills .progress-bar-7 {
+    width: 80%;
+    height: 10px;
+    transition: 0.9s;
+    background-color: #149ddd;
+  }
+  .skills .progress-bar-8 {
+    width: 95%;
+    height: 10px;
+    transition: 0.9s;
+    background-color: #149ddd;
+  }
+
+
+/* .skills{
+    display: flex;
+}
+
+.skills .skill{
+    width: 50%;
+}
+
+.progress {
+    background: rgba(255,255,255,0.1);
+    justify-content: flex-start;
+    border-radius: 100px;
+    align-items: center;
+    position: relative;
+    padding: 0 5px;
+    display: flex;
+    height: 40px;
+    width: 100%;
+}
+  
+.progress-value {
+    animation: load 3s normal forwards;
+    box-shadow: 0 10px 40px -10px #fff;
+    border-radius: 10px;
+    background: blue;
+    height: 10px;
+    width: 0;
+}
+
+  
+@keyframes load {
+    0% { width: 0; }
+    100% { width: 68%; }
+} */
